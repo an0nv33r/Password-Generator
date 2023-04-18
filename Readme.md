@@ -6,6 +6,18 @@ It is designed to create strong, randomized passwords for enhanced security. The
 
 It also includes a password strength checker feature that checks for the overall strength of the entered password. Although, I know it is not very straightforward to use as many people do not know how to use it. But I assure you that with the phase of my learning process, I will create a **GUI (Graphical User Interface)** for the application.
 
+# Usage
+
+- Clone the github repository.
+
+- Open the project in the IDE you want to use.
+
+- Click on **src** folder.
+
+- Click on **Main** file, now run it
+
+_(If you get any error make sure that : Before running the **Main** file you had assigned **jdk** to the project in the project settings on your IDE.)_
+
 # Functionalities:
 
 ### 1. Generating a Password:
@@ -31,15 +43,3 @@ It also includes a password strength checker feature that checks for the overall
 # Additional Information
 
 - JDK (Oracle OpenJDK version 17.0.6)
-
-# Usage
-
-- Clone the github repository.
-
-- Open the project in the IDE you want to use.
-
-- Click on **src** folder.
-
-- Click on **Main** file, now run it
-
-_(If you get any error make sure that : Before running the **Main** file you had assigned **jdk** to the project in the project settings on your IDE.)_
